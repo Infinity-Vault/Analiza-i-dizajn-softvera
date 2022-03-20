@@ -24,4 +24,4 @@
 [Vjezbe_1 (18.03.2022.) Ilhan Karic](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Vjezbe/Vjezbe_1/Vjezbe_1.vpp)
 
 
-hr>
+<hr>
