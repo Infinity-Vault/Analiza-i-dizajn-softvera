@@ -8,7 +8,7 @@
 **Materijali**
 
 <hr>
-[Knjiga ADS](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Materijali/ADS_K_Knjiga.pdf)
+
 <hr>
 
 **Predavanja**
