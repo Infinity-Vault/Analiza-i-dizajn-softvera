@@ -37,4 +37,6 @@
 
 [Vjezbe_7 (21.05.2022.) Ilhan Karic](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Vjezbe/Vjezbe_7/Vjezbe_7.vpp)
 
+[Vjezbe_8 (27.05.2022.) Ilhan Karic](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Vjezbe/Vjezbe_8/Vjezbe_8.vpp)
+
 <hr>
