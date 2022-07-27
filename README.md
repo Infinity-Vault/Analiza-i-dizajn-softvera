@@ -49,8 +49,6 @@
 
 <hr>
 
-[Ispitni 22.06.2022.](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Ispitni/Ispitni%2022.6.2022/21.6.2022.vpp) ~ [Postavka](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.6.2022/Postavka)
 
-[Ispitni 22.07.2021.](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/raw/main/Ispitni/Ispitni%2022.07.2021/Ispitni%2022.07.2021..vpp) ~ [Postavka](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.07.2021/Postavka)
 
 <hr>
