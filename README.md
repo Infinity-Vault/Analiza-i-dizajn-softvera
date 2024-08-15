@@ -5,7 +5,7 @@
 
 ~ DOWNLOAD: [Visual Paradigm v16.3 Community Edition](https://www.visual-paradigm.com/download/community.jsp?platform=windows&arch=64bit)
 
-**Materijali**
+[Materijali i teorija za ispit](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Materijali)
 
 <hr>
 
